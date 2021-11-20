@@ -11,3 +11,5 @@
 [Chap6_Deadlock_2021_in.pdf](https://github.com/BuiTranNgocLy/CT178_Operating-System_CTU/files/7517387/Chap6_Deadlock_2021_in.pdf)
 
 [Chap7_Mem_2021_in.pdf](https://github.com/BuiTranNgocLy/CT178_Operating-System_CTU/files/7517388/Chap7_Mem_2021_in.pdf)
+
+
